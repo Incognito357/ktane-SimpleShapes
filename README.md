@@ -1,1 +1,1 @@
-#[Manual](Manual/pdfs/NeedyModules/incognitoSimpleShapes.pdf)
+#[ModKit Wiki](../../wiki)

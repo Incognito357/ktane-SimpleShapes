@@ -13,15 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: incognitoSimpleShapes
   title: Simple Shapes
-  description: 'It''s so easy, a pre-schooler could do it. Granted, the stakes for
-    them might be a tad bit lower...
-
-
-    Manual:
-
-    HTML: TBD
-
-    PDF: https://github.com/Incognito357/ktane-SimpleShapes/blob/master/Manual/pdfs/NeedyModules/incognitoSimpleShapes.pdf'
+  author: Incognito
+  description: 
   version: 1.0
   outputFolder: build
-  previewImage: {fileID: 2800000, guid: 7430ee252bb5cc646ab97b98ae993b89, type: 3}
+  previewImage: {fileID: 0}
